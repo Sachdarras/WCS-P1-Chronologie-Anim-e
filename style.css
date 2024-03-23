@@ -315,7 +315,7 @@ footer {
 
 
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 400px) {
 
 
   header h1 {
@@ -352,8 +352,9 @@ footer {
 
   .card-container {
     padding: 1rem;
-    width: 430px;
-   
+    width: 90%;
+   margin-left: 20px;
+   margin-right: 20px;
   }
 
   .cards h2 {
